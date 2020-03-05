@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a6c4612fe1bf3e48bb954ab95b45419, type: 3}
+  m_Name: NewQuestion 8
+  m_EditorClassIdentifier: 
+  objectName: Rebels
+  question: '"Mr. prime minister, what is the course of action after the recent declaration
+    of independence of one of the eastern areas of Dysfunctopia?"'
+  boostingAnswers:
+  - use diplomacy
+  - be talking
+  - be negotiating
+  - be cool
+  - work
+  - be friends
+  - get jiggy
+  reducingAnswers:
+  - use force
+  - fight
+  - get tough
+  - fuck
+  - be scary
+  - be angry
+  - be tough
+  - mess
+  - get froggy
+  descriptive:
+  - bullshit
+  - shit
+  - nonsense
+  - ridiculousness
+  - stupidity
+  - craziness
+  - amazingly
+  firstSlotReversed: 0
+  answerBase: '"We are going to _____ with them. Absolutely. That is the only option.
+    If that doesn''t convince them to stop with this *****, I will personally _____
+    with this group, but that is the last option! They''ll be a part of the country
+    soon!"'
+  requiredAnswers: 2
+  firstAnswerDomesticPoints: -2
+  firstAnswerInternationalPoints: 2
+  secondAnswerDomesticPoints: -2
+  secondAnswerInternationalPoints: 2
+  questionType: 1
+  a1: nonexistant
+  a2: be tough
+  isPositive: 1

@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a6c4612fe1bf3e48bb954ab95b45419, type: 3}
+  m_Name: NewQuestion 2
+  m_EditorClassIdentifier: 
+  objectName: Drugs
+  question: '"Mr. prime minister, there is a growing movement within Dysfunctopia
+    to legalize marijuana, what are your government''s thoughts on this subject?"'
+  boostingAnswers:
+  - good
+  - great
+  - tasty
+  - interesting
+  - wonderful
+  - beautiful
+  - cool
+  - rad
+  - excellent
+  reducingAnswers:
+  - bad
+  - horrible
+  - dangerous
+  - terrible
+  - scary
+  - crazy
+  - embarrassing
+  - stupid
+  - cuckoo
+  descriptive:
+  - damn
+  - absolutely
+  - very
+  - incredibly
+  - massively
+  - super
+  - pretty
+  - always
+  - goddamn
+  - fucking
+  - veeery
+  - definitely
+  - really
+  - quite
+  firstSlotReversed: 0
+  answerBase: '"Drugs are ***** _____, okay. They really are. So I think this is a
+    _____ idea. We''ll see what happens."'
+  requiredAnswers: 2
+  firstAnswerDomesticPoints: 2
+  firstAnswerInternationalPoints: 0
+  secondAnswerDomesticPoints: 2
+  secondAnswerInternationalPoints: 0
+  questionType: 1
+  a1: nonexistant
+  a2: cool
+  isPositive: 0

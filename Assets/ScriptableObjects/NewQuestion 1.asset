@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a6c4612fe1bf3e48bb954ab95b45419, type: 3}
+  m_Name: NewQuestion 1
+  m_EditorClassIdentifier: 
+  objectName: Army
+  question: '"Mr. prime minister, what is your reaction to the recent comments from
+    the president of Rublstan, calling Dysfunctopia''s armed forces ''pieces of rusty
+    crap''?"'
+  boostingAnswers:
+  - proud
+  - happy
+  - pleased
+  - satisfied
+  - grateful
+  - hopeful
+  reducingAnswers:
+  - shocked
+  - displeased
+  - livid
+  - outraged
+  - horrified
+  - maddened
+  - angered
+  - embarrassed
+  descriptive:
+  - extremely
+  - absolutely
+  - very
+  - incredibly
+  - massively
+  - a little
+  - pretty
+  - somewhat
+  - goddamn
+  - fucking
+  - relatively
+  - definitely
+  - probably
+  - quite
+  firstSlotReversed: 0
+  answerBase: '"First of all, I am ***** _____ about the state of our armed forces.
+    What he said made me _____!"'
+  requiredAnswers: 2
+  firstAnswerDomesticPoints: 2
+  firstAnswerInternationalPoints: 0
+  secondAnswerDomesticPoints: -2
+  secondAnswerInternationalPoints: 1
+  questionType: 0
+  a1: nonexistant
+  a2: grateful
+  isPositive: 0

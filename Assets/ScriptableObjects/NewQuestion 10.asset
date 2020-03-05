@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a6c4612fe1bf3e48bb954ab95b45419, type: 3}
+  m_Name: NewQuestion 10
+  m_EditorClassIdentifier: 
+  objectName: Funding
+  question: '"Mr. prime minister, these new leaked documents show that your government
+    have been financing a terrorist group called ''Al Why-doe''.. why though?"'
+  boostingAnswers:
+  - great
+  - nice
+  - strong
+  - cool
+  - good
+  reducingAnswers:
+  - crazy
+  - scary
+  - freaky
+  - horrible
+  - bad
+  - terrible
+  - shit
+  - shitty
+  - ridiculous
+  descriptive:
+  - hate
+  - love
+  - like
+  - despise
+  - am okay with
+  - dislike
+  - don't like
+  - am amazed by
+  - support
+  - dig
+  firstSlotReversed: 0
+  answerBase: '"Well you know they''ve got a _____ leader. I ***** it. He called me
+    on the phone, said he''d kick my ass after school if I didn''t give him my lunch
+    money and so forth so I thought fine.. We can give him a little money, what''s
+    the big deal? I''m working very hard to make this country _____!"'
+  requiredAnswers: 2
+  firstAnswerDomesticPoints: 0
+  firstAnswerInternationalPoints: 0
+  secondAnswerDomesticPoints: 2
+  secondAnswerInternationalPoints: 0
+  questionType: 0
+  a1: fantastic
+  a2: horrible
+  isPositive: 1

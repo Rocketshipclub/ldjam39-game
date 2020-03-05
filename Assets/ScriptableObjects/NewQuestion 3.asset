@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a6c4612fe1bf3e48bb954ab95b45419, type: 3}
+  m_Name: NewQuestion 3
+  m_EditorClassIdentifier: 
+  objectName: Drought
+  question: "\"Mr. prime minister, our neighboring country M\xFCxico is suffering
+    from worst droughts in years, is Dysfunctopia planning to aid them in any way?\""
+  boostingAnswers:
+  - good
+  - great
+  - happy
+  - nice
+  - wonderful
+  - beautiful
+  - fine
+  - cool
+  reducingAnswers:
+  - lousy
+  - horrible
+  - dangerous
+  - terrible
+  - scary
+  - crazy
+  - dumb
+  - stupid
+  - boring
+  - fucked up
+  - shit
+  - radicalized
+  - hard
+  descriptive: []
+  firstSlotReversed: 0
+  answerBase: "\"M\xFCxico is a _____ country, I've been there a couple times before.
+    Had a _____ time there, a couple drinks on the beach, you know how it is out there.
+    They seemed to have enough to drink back then so they'll be fine.\""
+  requiredAnswers: 2
+  firstAnswerDomesticPoints: 0
+  firstAnswerInternationalPoints: -3
+  secondAnswerDomesticPoints: 0
+  secondAnswerInternationalPoints: 2
+  questionType: 0
+  a1: 
+  a2: 
+  isPositive: 0

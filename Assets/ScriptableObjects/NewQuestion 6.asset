@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a6c4612fe1bf3e48bb954ab95b45419, type: 3}
+  m_Name: NewQuestion 6
+  m_EditorClassIdentifier: 
+  objectName: Education
+  question: '"Mr. prime minister, what are your plans in terms of education?"'
+  boostingAnswers:
+  - most important
+  - greatest
+  - best
+  - coolest
+  - loveliest
+  - most beautiful
+  reducingAnswers:
+  - most boring
+  - worst
+  - most ridiculous
+  - lamest
+  - craziest
+  - dumbest
+  - stupidest
+  - shittiest
+  - least important
+  - most tedious
+  - most worthless
+  - murkiest
+  - darkest
+  descriptive: []
+  firstSlotReversed: 0
+  answerBase: '"Education is the _____ topic ever. It''s about our kids, our kids
+    are the _____ thing in this world and so I''ll have to talk to my guys about education."'
+  requiredAnswers: 2
+  firstAnswerDomesticPoints: 3
+  firstAnswerInternationalPoints: 0
+  secondAnswerDomesticPoints: -3
+  secondAnswerInternationalPoints: 0
+  questionType: 1
+  a1: nonexistant
+  a2: terrorism
+  isPositive: 1

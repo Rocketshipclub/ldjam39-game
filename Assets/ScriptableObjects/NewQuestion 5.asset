@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a6c4612fe1bf3e48bb954ab95b45419, type: 3}
+  m_Name: NewQuestion 5
+  m_EditorClassIdentifier: 
+  objectName: Overseas
+  question: '"Mr. prime minister, some leaders from around the world have claimed
+    that during official state visits, you talk mostly about your hunting trips with
+    your cousin Steve, are these stories true?"'
+  boostingAnswers:
+  - global trade
+  - defense
+  - North Kariyo
+  - human rights
+  - terrorism
+  - corruption
+  - global warming
+  - technology
+  reducingAnswers:
+  - sports
+  - football
+  - video games
+  - myself
+  - my private jets
+  - peanut butter
+  - cars
+  - baseball
+  - lunch
+  - cupcakes
+  - all kinda shit
+  - fake news
+  - fidget spinners
+  descriptive: []
+  firstSlotReversed: 0
+  answerBase: "\"On my visit to D\xF6itschland last week I talked about _____, an
+    important subject. But I'm a smart guy, I can talk about hunting, fishing or _____
+    if I want. Can you have a conversation about all that stuff, I think not!\""
+  requiredAnswers: 2
+  firstAnswerDomesticPoints: 1
+  firstAnswerInternationalPoints: 1
+  secondAnswerDomesticPoints: -2
+  secondAnswerInternationalPoints: -1
+  questionType: 0
+  a1: nonexistant
+  a2: corruption
+  isPositive: 1

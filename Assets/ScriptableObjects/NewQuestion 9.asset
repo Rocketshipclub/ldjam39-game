@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a6c4612fe1bf3e48bb954ab95b45419, type: 3}
+  m_Name: NewQuestion 9
+  m_EditorClassIdentifier: 
+  objectName: GlobalWarming
+  question: '"Mr. prime minister, do you have any plans on combating global warming?"'
+  boostingAnswers:
+  - brains
+  - desire
+  - guts
+  - will
+  - belief
+  - faith
+  - love
+  reducingAnswers:
+  - money
+  - ho's
+  - cats
+  - gold
+  - dogs
+  - beer
+  - idiots
+  - guns
+  - tanks
+  - navy
+  - army
+  descriptive:
+  - bullshit
+  - shit
+  - nonsense
+  - ridiculousness
+  - stupidity
+  - craziness
+  - amazingly
+  firstSlotReversed: 0
+  answerBase: '"This government doesn''t have plans, it has _____ and _____. That''s
+    my new slogan, you like it? I think it''s great. That''s how we combat global
+    warming too."'
+  requiredAnswers: 2
+  firstAnswerDomesticPoints: 2
+  firstAnswerInternationalPoints: 2
+  secondAnswerDomesticPoints: -2
+  secondAnswerInternationalPoints: -2
+  questionType: 0
+  a1: 
+  a2: 
+  isPositive: 0

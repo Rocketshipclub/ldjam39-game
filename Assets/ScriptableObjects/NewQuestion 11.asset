@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a6c4612fe1bf3e48bb954ab95b45419, type: 3}
+  m_Name: NewQuestion 11
+  m_EditorClassIdentifier: 
+  objectName: Cereal
+  question: '"Mr. prime minister, after your government banned eating cereal for dinner,
+    many people have complained that the government shouldn''t have a say in what
+    adult people do in their kitchens. What''s your take on this?"'
+  boostingAnswers:
+  - babies
+  - cyanide
+  - kittens
+  - puppies
+  - skittles
+  - heroin
+  - uranium
+  - styrofoam
+  - vaccines
+  reducingAnswers: []
+  descriptive: []
+  firstSlotReversed: 0
+  answerBase: '"This is about morals, Karen, or whatever the hell your name was. If
+    we let people eat cereal on their dinner table, who knows what they''ll eat next?
+    _____? _____? Is that what you want Christy, or whatever the hell your name was?!"'
+  requiredAnswers: 2
+  firstAnswerDomesticPoints: 1
+  firstAnswerInternationalPoints: 0
+  secondAnswerDomesticPoints: 0
+  secondAnswerInternationalPoints: 0
+  questionType: 0
+  a1: fantastic
+  a2: kittens
+  isPositive: 1

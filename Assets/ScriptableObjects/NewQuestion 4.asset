@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a6c4612fe1bf3e48bb954ab95b45419, type: 3}
+  m_Name: NewQuestion 4
+  m_EditorClassIdentifier: 
+  objectName: Gays
+  question: '"Mr. prime minister, LGBT rights have been a big talking point during
+    this week, do you have anything to add to the conversation?"'
+  boostingAnswers:
+  - gay
+  - great
+  - happy
+  - nice
+  - wonderful
+  - beautiful
+  - fine
+  - cool
+  reducingAnswers:
+  - lousy
+  - horrible
+  - dangerous
+  - terrible
+  - looney
+  - crazy
+  - dumb
+  - stupid
+  - boring
+  - rich
+  - shit
+  - radicalized
+  - fake
+  descriptive:
+  - fucking
+  - damn
+  - goddamn
+  - extremely
+  - amazingly
+  - absolutely
+  - pretty
+  - quite
+  - really
+  - reeeeeaaally
+  firstSlotReversed: 0
+  answerBase: '"I''m a _____ person. I truly am. I''m _____. So this conversation
+    is ***** important. I''m all for rights, lefts, whatever you want. All directions!"'
+  requiredAnswers: 2
+  firstAnswerDomesticPoints: -2
+  firstAnswerInternationalPoints: 0
+  secondAnswerDomesticPoints: -2
+  secondAnswerInternationalPoints: 0
+  questionType: 1
+  a1: 
+  a2: 
+  isPositive: 0
